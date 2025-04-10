@@ -1,0 +1,1629 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "village",
+        "adresse": "Village, Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7294207,
+          4.011774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "yassa",
+        "adresse": "Yassa, Yassa Bakoko, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8103803,
+          3.9913253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "deido",
+        "adresse": "Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7151827,
+          4.0637626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "logbaba",
+        "adresse": "Logbaba, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7603178,
+          4.0328521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonaberi",
+        "adresse": "Bonaberi, Douala IV, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6649718,
+          4.0822098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "nyalla",
+        "adresse": "Nyalla Bassa, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7744243,
+          4.0334103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonamoussadi",
+        "adresse": "Bonamoussadi, Bonagang, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7393663,
+          4.094354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndogpassi",
+        "adresse": "Ndogpassi III, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7566698,
+          4.0100854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "new bell",
+        "adresse": "New Bell, Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7057582,
+          4.0314849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "makepe",
+        "adresse": "Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7409587,
+          4.0638116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bali",
+        "adresse": "Bali, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6930482,
+          4.0399946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk8",
+        "adresse": "PK8, Songbikako, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7578107,
+          4.0470063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk12",
+        "adresse": "Home Pk12, Road To PK 12, Ndoghem, Logbessou Pk.14, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.788722827636814,
+          4.063814900000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ngodi bakoko",
+        "adresse": "Ngodi Bakoko, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.785696,
+          3.98577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk9",
+        "adresse": "Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7062018,
+          4.0429389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bepanda",
+        "adresse": "Bépanda, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7227206,
+          4.0565417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "kotto",
+        "adresse": "Rue Kotto(N°1.721), Bonantone, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.706502767892104,
+          4.060928204488936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk14",
+        "adresse": "Pharmacie de La République PK14, P14, Ndoghem, Logbessou Pk.14, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.793469679342078,
+          4.0782914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk11",
+        "adresse": "PHARMACIE CARREFOUR PK11, Road To PK 12, TPM S.A, Pindo, Douala III, Communauté urbaine de Douala, Wouri, Littoral, 1144 Dla, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.776753466447614,
+          4.0510886500000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "boko",
+        "adresse": "École La Conscience de BOKO, Route de Banga Pongo, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7639131,
+          3.9937347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonapriso",
+        "adresse": "Bonapriso, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6930153,
+          4.0256151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "logpom",
+        "adresse": "Logpom, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7711838,
+          4.0769067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "akwa",
+        "adresse": "Akwa, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6963304,
+          4.052544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "dakar",
+        "adresse": "Rondpoint Dakar, Oyak, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.735171,
+          4.0253489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "oyack",
+        "adresse": "College Fosto Daniel d'Oyack, Axe Espoir-Carnaval, Didom II, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.746330762181058,
+          4.02209795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk10",
+        "adresse": "auto école planète pk10, Road To PK 12, TPM S.A, Pindo, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.774591069921874,
+          4.04981385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "beedi",
+        "adresse": "Beedi, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7662924,
+          4.0611714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndogbong",
+        "adresse": "Ndogbong, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7521285,
+          4.0644714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndogpassi 2",
+        "adresse": "Ndogpassi III, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7566698,
+          4.0100854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cité des palmiers",
+        "adresse": "Cité Des Palmiers, Bassa, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7640556,
+          4.0542657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "japoma",
+        "adresse": "Japoma, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8226875,
+          4.032334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "nkongmondo",
+        "adresse": "École Publique de Nkongmondo, Rue 1.120, Koumassi, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6996677,
+          4.035063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "nyalla pariso",
+        "adresse": "Express Union Nyalla Pariso, Rue Mission Catholique Nyalla, Kambo, Bessengue, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7926602,
+          4.0247435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "r a s",
+        "adresse": "Rue A, Didom II, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7486717,
+          4.0105612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bilongue",
+        "adresse": "École Maternelle Publique de Bilongue, Rue de Bonaloka, Bonanloka, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7394305,
+          4.015023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "new-bell",
+        "adresse": "New Bell, Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7057582,
+          4.0314849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonaberie",
+        "adresse": "Rue 4,158 Bonabérie, Bonaberi, Douala IV, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65951856344657,
+          4.0791112500736615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "edea",
+        "adresse": "Auto Route Central Directe Douala -Edea, Village, Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.728310146044757,
+          4.014538805155774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "logbessou",
+        "adresse": "Logbessou II, Logbessou Pk.14, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7970314,
+          4.0810919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndogpassi 3",
+        "adresse": "Boulangerie Ndogpassi 3, Rue Hotel Porte M, Ndogpassi III, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7647887,
+          3.9987391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndongbong",
+        "adresse": "Terrase Ndongbong, La Route du Campus 2 ESSEC, Domaine Universitaire, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7500991,
+          4.0574531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndokoti",
+        "adresse": "Ndokoti, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7436776,
+          4.0434344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bessengue",
+        "adresse": "Bessengue, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7966293,
+          4.0292338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cite des palmiers",
+        "adresse": "Cité Des Palmiers, Bassa, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7640556,
+          4.0542657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonaloka",
+        "adresse": "Parc de Bonaloka, Brazzaville, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.72484580996548,
+          4.0278452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cité sic",
+        "adresse": "Cité SIC, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7307181,
+          4.0539142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk 10",
+        "adresse": "Brasseries du Cameroun, Ndokoti, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.74667936024226,
+          4.04220425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "sic cacao",
+        "adresse": "SIC CACAO, Rue de Deido Bassa(N°1.878), Domaine Universitaire, Bassa, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7296056,
+          4.0569862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk16",
+        "adresse": "Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7062018,
+          4.0429389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "youpwe",
+        "adresse": "Youpwe, Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.699614,
+          4.0105092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk15",
+        "adresse": "Brasseries du Cameroun, Ndokoti, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.74667936024226,
+          4.04220425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ngodi",
+        "adresse": "Ngodi, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7888708,
+          3.9852675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "yatika",
+        "adresse": "Yatika, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7947326,
+          3.9773917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "déido",
+        "adresse": "Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7151827,
+          4.0637626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk13",
+        "adresse": "Centre Médical PK13, P14, Ndoghem, Logbessou Pk.14, Douala III, Communauté urbaine de Douala, Wouri, Littoral, 7806 Dla, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.792444078575132,
+          4.07355255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cite cicam",
+        "adresse": "Westem Union Cité Cicam, Rue Stade Cicam, Ndoghem, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7377314,
+          4.0521535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cité de palmiers",
+        "adresse": "Hôpital De District de la Cité des palmiers, Route Cite d'espoir pour L'humanite, Songbikako, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.761868659288753,
+          4.05185745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "brazzaville",
+        "adresse": "Brazzaville, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7292726,
+          4.0233735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cite sic",
+        "adresse": "Cité SIC, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7307181,
+          4.0539142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ngodi akwa",
+        "adresse": "Cimetière de Ngodi, Vallée Bessengué, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.707157446139915,
+          4.04808915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "madagascar",
+        "adresse": "Madagascar, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7360237,
+          4.033651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonateki deido",
+        "adresse": "Bonateki, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7175548,
+          4.0703304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bp cité",
+        "adresse": "Rond Point BP Cité, Bassa, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.728418,
+          4.047342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ange raphael",
+        "adresse": "Ange Raphael, Bonadouma II, Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7017512,
+          4.0225624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "akwa nord",
+        "adresse": "Cimetière d'Akwa Nord, Bonewonda, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.718644468336116,
+          4.0767237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "akwa-nord",
+        "adresse": "Cimetière d'Akwa Nord, Bonewonda, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.718644468336116,
+          4.0767237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ange raphaël",
+        "adresse": "Ange Raphael, Bonadouma II, Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7017512,
+          4.0225624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bafoussam",
+        "adresse": "Eglise Evangelique du Cameroun, Douala-Bafoussam, Nkapa, Dibombari, Moungo, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.605571509765612,
+          4.20160765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonendale",
+        "adresse": "Bonendale 2, Douala IV, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6544209,
+          4.1164184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "hôpital général",
+        "adresse": "Ancien Hôpital Général, Rue French (N°1.082), Bonanjo, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.684760464819284,
+          4.03999095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "genie militaire",
+        "adresse": "Génie Militaire, Songbikako, Bessengue, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.78369894435924,
+          4.0463793500000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "douala-douala",
+        "adresse": "Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7062018,
+          4.0429389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "douala 812.12",
+        "adresse": "Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7062018,
+          4.0429389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "dibombari",
+        "adresse": "Union des Eglises Baptistes du Cameroun, Douala-Limbé, Bassa, Dibombari, Moungo, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.57527098162615,
+          4.1086583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "deïdo",
+        "adresse": "Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7151827,
+          4.0637626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cité-sic",
+        "adresse": "Cité SIC, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7307181,
+          4.0539142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cité-sic bassa",
+        "adresse": "TOTAL Cité SIC, Avenue Japoma, Bassa, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.728221,
+          4.0475914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cite de la paix",
+        "adresse": "Entrée Cité de la Paix, Route de Japoma, Ndogsimbi, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7273215,
+          4.0418134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "cité cicam",
+        "adresse": "Westem Union Cité Cicam, Rue Stade Cicam, Ndoghem, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7377314,
+          4.0521535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "carrefour bonabassem",
+        "adresse": "Carrefour Bonabassem, Bonateki, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7187862,
+          4.0710983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonambappe",
+        "adresse": "Pharmacie de Bonambappe, Route du Lycée (Rue 4.352), Sodiko, Mpandjo, Douala IV, Communauté urbaine de Douala, Wouri, Littoral, 6365 Dla, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6760028,
+          4.0738794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bp cite",
+        "adresse": "Rond Point BP Cité, Bassa, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.728418,
+          4.047342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonateki",
+        "adresse": "Bonateki, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7175548,
+          4.0703304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonanjo",
+        "adresse": "Bonanjo, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6864962,
+          4.043024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonamikano",
+        "adresse": "École Publique de Bonamikano, Rue 4.379, Bonamatoumbe, Mpandjo, Douala IV, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.677141903968021,
+          4.0811422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bwang bakoko",
+        "adresse": "Institut Ucac-Icam, Institut Ucac-Icam Campus de Douala (Cameroun), D58, Yassa, Dibamba, Douala III, Communauté urbaine de Douala, Wouri, Littoral, 5504, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80057795615775,
+          3.9643991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bois des singes",
+        "adresse": "Bois des Singes, Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7079395,
+          4.0080364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonabéri",
+        "adresse": "Bonaberi, Douala IV, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6649718,
+          4.0822098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bonadoumbe",
+        "adresse": "Bonadoumbe, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6988735,
+          4.0230872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "bepanda omnisport",
+        "adresse": "Ecole public du C.A.O Bepanda Omnisport, Avenue de Bepanda, Bépanda, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7229354,
+          4.0585698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndog passi 3",
+        "adresse": "Pharmacy de Ndog-passi axe-lourd, N3, Ndogpassi III, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7549902,
+          4.0048605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndog-passi",
+        "adresse": "Pharmacy de Ndog-passi axe-lourd, N3, Ndogpassi III, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7549902,
+          4.0048605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "mboppi",
+        "adresse": "Camp de Gendarmerie de Mboppi, Nkolminta, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.717241903157376,
+          4.04429845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "kotto- chefferie",
+        "adresse": "chefferie traditionnelle de Kotto-Bassa, 5N.488, Koto, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.756771010687453,
+          4.09503615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "hôpital général de douala",
+        "adresse": "Hôpital Général de Douala, Rue Prince, Makepe II Bonamoussadi, Makepe, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.758410469967764,
+          4.0646681000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "new-deido",
+        "adresse": "New Deido, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7146748,
+          4.0594866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndogpassi iii",
+        "adresse": "Ndogpassi III, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7566698,
+          4.0100854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndogpassi i",
+        "adresse": "Ndogpassi III, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7566698,
+          4.0100854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndogpassi ii",
+        "adresse": "Institut Polyvalent Ouakam Ndogpassi II, Rue Mission Catholique Nyalla, Kambo, Bessengue, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7766879,
+          4.0234504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ndogpassi 1",
+        "adresse": "Ndogpassi III, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7566698,
+          4.0100854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "manjo",
+        "adresse": "Lycée de Manjo, Douala-Bafoussam (N5), Namba, Manjo, Moungo, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.821909642444568,
+          4.84455145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "mbanga",
+        "adresse": "Mbanga Bakoko, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7992035,
+          4.0070341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk13 bassa",
+        "adresse": "Bassa, Douala V, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7520627,
+          4.0481713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ngodi- bakoko",
+        "adresse": "Ngodi Bakoko, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.785696,
+          3.98577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk 13",
+        "adresse": "Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7062018,
+          4.0429389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk 11",
+        "adresse": "Brasseries du Cameroun, Ndokoti, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.74667936024226,
+          4.04220425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk21",
+        "adresse": "Brasseries du Cameroun, Ndokoti, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.74667936024226,
+          4.04220425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "nylon",
+        "adresse": "Nylon, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7307532,
+          4.0282399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "ngodi- akwa",
+        "adresse": "Cimetière de Ngodi, Vallée Bessengué, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.707157446139915,
+          4.04808915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pl12",
+        "adresse": "Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7062018,
+          4.0429389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "pk5",
+        "adresse": "Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7062018,
+          4.0429389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "rue koloko bonapriso",
+        "adresse": "Rue Koloko (N°1.032), Bonadouma, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.702705877338525,
+          4.028278202514286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "tombel",
+        "adresse": "Blessing loum(carrefour tombel), Douala-Bafoussam (N5), Loum, Moungo, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7224121,
+          4.7209463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "yaounde",
+        "adresse": "Gare Routière Touristique, Boulevard du Président Ahmadou Ahidjo (N° 1352), Akwa, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.701196753966322,
+          4.04373415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "yaoundé",
+        "adresse": "Gare Routière Touristique, Boulevard du Président Ahmadou Ahidjo (N° 1352), Akwa, Deido, Douala I, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.701196753966322,
+          4.04373415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "yatchika",
+        "adresse": "Orphelinat Ecole Catholique Mbadi-Yatchika, D58, Yassa, Dibamba, Douala III, Communauté urbaine de Douala, Wouri, Littoral, Cameroun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8038354,
+          3.9846727
+        ]
+      }
+    }
+  ]
+}
