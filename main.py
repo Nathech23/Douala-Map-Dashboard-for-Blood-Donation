@@ -57,33 +57,33 @@ def display_map(file):
 
 def load_data(file):
     df = pd.read_csv(file, sep=";")
-    don = "Oui"
-    df = df[df['A-t-il (elle) déjà donné le sang'] == don]  # Filtrer les donneurs
-    df.to_csv("donneurs_oui.csv", sep=";", index=False, encoding="utf-8-sig")
-    df = pd.read_csv("donneurs_oui.csv", sep=';', encoding='utf-8-sig')  #Regroupement des donneurs par quartier
-    df_trie = df.sort_values(by='Quartier de Résidence')
-    df_trie.to_csv('donnees_tries.csv', index=False, sep=';', encoding='utf-8-sig')
+    #don = "Oui"
+    #df = df[df['A-t-il (elle) déjà donné le sang'] == don]  # Filtrer les donneurs
+    #df.to_csv("donneurs_oui.csv", sep=";", index=False, encoding="utf-8-sig")
+    #df = pd.read_csv("donneurs_oui.csv", sep=';', encoding='utf-8-sig')  #Regroupement des donneurs par quartier
+    #df_trie = df.sort_values(by='Quartier de Résidence')
+    #df_trie.to_csv('donnees_tries.csv', index=False, sep=';', encoding='utf-8-sig')
     
     st.header("Liste des donneurs")
     st.write(df.shape)
     st.write(df.head())
     st.write(df.columns)
 
-def main_data(file):
+def main_data():
     # Lire le fichier CSV initial
-    df = pd.read_csv(file, sep=";", encoding='utf-8')
+    #df = pd.read_csv(file, sep=";", encoding='utf-8')
 
     # Normaliser les noms de quartiers (insensibles à la casse)
-    df['Quartier de Résidence'] = df['Quartier de Résidence'].str.strip().str.lower()
+    #df['Quartier de Résidence'] = df['Quartier de Résidence'].str.strip().str.lower()
 
     # Compter le nombre d'occurrences par quartier
-    quartier_counts = df['Quartier de Résidence'].value_counts().reset_index()
+    #quartier_counts = df['Quartier de Résidence'].value_counts().reset_index()
 
     # Renommer les colonnes
-    quartier_counts.columns = ['Quartier', 'Occurrences']
+    #quartier_counts.columns = ['Quartier', 'Occurrences']
 
     # Enregistrer le résultat
-    quartier_counts.to_csv("quartiers_occurrences.csv", index=False, sep=';', encoding='utf-8-sig')
+    #quartier_counts.to_csv("quartiers_occurrences.csv", index=False, sep=';', encoding='utf-8-sig')
 
     df = pd.read_csv("quartiers_occurrences.csv", sep=";", encoding='utf-8')    
     st.header("Liste des quartiers où il y a des donneurs")
@@ -96,8 +96,8 @@ def main():
     st.title(APP_TITLE)
 
     # Charger et préparer les données
-    load_data("datas.csv")
-    main_data('donnees_tries.csv')
+    load_data("donneurs_oui.csv")
+    main_data()#'donnees_tries.csv'
 
     # Afficher la carte
     display_map("quartiers_occurrences.csv")
